@@ -1,5 +1,4 @@
 //Given an array of numbers. Write a function to separate odd and even numbers in different arrays.
-
 function getSeperator(array) {
   let arrEven = [];
   let arrOdd = [];
